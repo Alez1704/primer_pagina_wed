@@ -1,0 +1,28 @@
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2{
+    border-left-style: dashed;
+}
+
+a{
+    color:rgb(9, 168, 150);
+    background-color: rgb(255, 254, 252);
+}
+
+p{
+    color: rgb(12, 169, 20);
+    background-color: rgb(29, 63, 3);
+}
+
+h6{
+    color: rgb(18, 83, 222);
+}
+
+body{
+background-image: url(el\ salvador\.jpg);
+}
+
