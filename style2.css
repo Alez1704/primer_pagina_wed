@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-variant: small-caps;
+}
+
+a{
+    color:rgb(228, 228, 228);
+    background-color: rgb(19, 70, 172);
+}
+
+p{
+    font-size: x-large;
+}
+
+
+th{
+    font-size:x-large;
+}
+
+td{
+    font-size: larger;
+}
+
+body{
+    background-image: linear-gradient( rgb(8, 50, 177),rgb(16, 55, 227), rgb(20, 84, 222),rgb(12, 110, 175),rgb(16, 188, 182));
+}

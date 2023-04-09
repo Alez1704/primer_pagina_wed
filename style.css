@@ -1,12 +1,17 @@
 
 h1 {
     text-align: center;
-    color: white;
+    color: rgb(21, 119, 6);
     background-image: url(el\ salvador\.jpg);
     box-sizing:border-box; 
     width: 1600px;
     height: 150px;
+    font-variant: small-caps;
     
+}
+
+p{
+    font-size:larger;
 }
 
 h2{
