@@ -2,6 +2,11 @@
 h1 {
     text-align: center;
     color: white;
+    background-image: url(el\ salvador\.jpg);
+    box-sizing:border-box; 
+    width: 1600px;
+    height: 150px;
+    
 }
 
 h2{
@@ -9,13 +14,8 @@ h2{
 }
 
 a{
-    color:rgb(9, 168, 150);
-    background-color: rgb(255, 254, 252);
-}
-
-p{
-    color: rgb(12, 169, 20);
-    background-color: rgb(29, 63, 3);
+    color:rgb(0, 0, 0);
+    background-color: rgb(46, 192, 211);
 }
 
 h6{
@@ -23,6 +23,6 @@ h6{
 }
 
 body{
-background-image: url(el\ salvador\.jpg);
+    background-image: linear-gradient( green,rgb(10, 174, 30), rgb(14, 175, 27),rgb(10, 150, 70),white);
 }
 
